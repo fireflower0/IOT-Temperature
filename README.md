@@ -8,7 +8,7 @@ Data is acquired from the temperature sensor "ADT7410" and displayed on the Web 
 
 ## Circuit diagram
 
-![CircuitDiagram]()
+![CircuitDiagram](https://github.com/fireflower0/IOT-Temperature/blob/master/img/adt7410_circuit.png)
 
 ## DEMO
 
